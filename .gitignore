@@ -1,7 +1,12 @@
-*.bak
-*.pkl
-bears/
-__pycache__/
-.last_checked
-.gitconfig
-.ipynb_checkpoints/
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
+
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
